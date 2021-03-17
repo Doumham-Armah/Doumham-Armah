@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doumham-Armah
+- 👋 Hi, I’m Mahmoud Hamra
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me: mahmoudhamra@gmail.com
