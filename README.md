@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmoud Hamra
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently taking the Data Analyst Nanodegree
 - 📫 How to reach me: mahmoudhamra@gmail.com
 
 <!---
