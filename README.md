@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmoud Hamra
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently taking the ML Nanodegree on Udacity
+- 👀 I’m interested in Data Science and Development
+- 🌱 I’m currently taking the Techworld with Nana DevOps Bootcamp
 - 📫 How to reach me: mahmoudhamra@gmail.com
 
 <!---
