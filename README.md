@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahmoud Hamra
-- 👀 I’m interested in Data Science and Development
+- 👀 I’m interested in DevOps and Development
 - 🌱 I’m currently taking the Techworld with Nana DevOps Bootcamp
 - 📫 How to reach me: mahmoudhamra@gmail.com
 
