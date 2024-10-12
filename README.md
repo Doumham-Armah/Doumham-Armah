@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mahmoud Hamra
-- 👀 I’m interested in DevOps and Development
-- 🌱 I’m currently taking the Techworld with Nana DevOps Bootcamp
+- 👀 I’m a senior DevOps Engineer
 - 📫 How to reach me: mahmoudhamra@gmail.com
 
 <!---
