@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahmoud Hamra
-- 👀 I’m a senior DevOps Engineer
+- 👀 I’m an SRE lead & DevOps Engineer
 - 📫 How to reach me: mahmoudhamra@gmail.com
 
 
